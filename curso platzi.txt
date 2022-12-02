@@ -1,0 +1,40 @@
+
+APIS: es una seccion del backend que permite al frontend comunicarse con el a traves de mensajes
+      bidireccionales.
+
+SOAP: protocolo que permite la comunicacion de backend con frontend, usa el lenguaje XML.
+
+XML: lenguaje de programacion demarcado similar a HTML.
+
+REST: Lenguaje de programacion que usa json para crear apis
+
+json: lennguaje de programacion que sirve para comunicar un backend con un frontend,
+      los objetos de javascript son los mismo que los diccionarios de phyton.
+
+
+deploy : subir el programa o aplicacion al servidor
+
+github: sistema de control de versiones,a repositorio donde de sube el codigo del aplicacion
+
+iaas: infrastructure as a service, permite controlar cosas importantes como cpu, ram y ssd (AWS, Azure, Digital Ocean)
+      existen 2 tipos de iaas, VPS (virtual private server) y shared hosting.
+
+Paas: platform as a service, El servidor se asegura de actualizar las aplicaciones que hacen que viva tu aplicación
+      ofrece servicios como base de datos, seguridad y firewall (google app engine, firebase, heroku)
+      Las PaaS tienen una interfaz gráfica que te permite elegir lo que tu app necesita.
+
+Saas: software as a service, Es cuando necesitas un software ya hecho, Es una aplicación que un provedor te presta para que hagas funcionar tu negocio,
+      no se necesita crear codigo (google docs, slack, wordpress).
+
+
+endpoint/ route/ path: es una seccion de la url del projecto (http://twitter.com/api/"endpoint")
+                       
+CRUD = create, read, update, delete.
+
+
+
+
+
+
+
+

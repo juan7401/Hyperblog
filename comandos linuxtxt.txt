@@ -1,0 +1,13 @@
+Comandos linux
+
+ls - listar objetos dentro del directorio
+cd - cambiar directorio
+cp - copiar un archivo 
+mkdir - crear un directorio
+touch - crear un archivo
+mv - mover un archivo o carpeta
+rm - borrar archivo
+less - ver archivo
+alias - crear un comando temporal nuevo
+tree - mostrar arbol de archivos
+
